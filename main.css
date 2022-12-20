@@ -62,6 +62,34 @@ main {
 
 .location-wrapper .city {
   color: rgb(240, 240, 240);
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 400;
 }
+
+.location-wrapper .date {
+  color: rgb(240, 240, 240);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.current .temperature {
+  color: rgb(240, 240, 240);
+  font-size: 70px;
+  font-weight: 600;
+  text-shadow: 2px 7px rgba(0, 0, 0, 0.7);
+  margin: 30px 0;
+}
+
+.current .weather {
+  color: rgb(240, 240, 240);
+  font-size: 18px;
+  font-weight: 700;
+  font-size: italic;
+}
+
+.current .range {
+  color: rgb(240, 240, 240);
+  font-size: 18px;
+  font-weight: 400;
+}
+
